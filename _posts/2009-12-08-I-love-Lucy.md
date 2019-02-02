@@ -2,6 +2,8 @@
 layout: post
 title: I love Lucy
 author: Gwendolyn Haevens
+published_in: ERGO
+link: http://www.ergo.nu/kronika/20091208-i-love-lucy
 ---
 While spending a year abroad, foreign students can experience a certain loss of identity – who are you when stripped of your language, your family and friends, and all your favourite hang-outs? And if you couldn't bring your guitar, your car, or your pet ferret along on the trip– if no one grasps the excitement (let alone the rules) of American football, or appreciates your impromptu, corridor-kitchen slam-poetry sessions, how do you still be you?
 It's a vital question, but not one that I'm qualified to answer. Those who fear this loss of self evidently spent fewer high-school years in clogs and rainbow toe-socks than I did. You'll be people who learned to use no-frizz hair products in a timely fashion, and who never had an artistic hat-making business on the side (which you felt compelled to advertise). No, I thought of my first year in Sweden as an escape from everything I had made the mistake of being in the past. A clean slate. 
