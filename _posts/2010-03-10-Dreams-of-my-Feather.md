@@ -2,6 +2,8 @@
 layout: post
 title: Dreams of my Feather
 author: Gwendolyn Haevens
+published_in: ERGO
+link: http://www.ergo.nu/kronika/20100310-dreams-of-my-feather
 ---
 A few years ago, I wandered into a small store in Paris which sold Iranian pottery. Rainbows of chubby, painted fish swam across the flat tiles and around the insides of every bowl. “They’re made in the desert,” the shop-keeper said. I looked down at the round, glazed tile I’d picked out, then back at the shop-keeper, who anticipated my puzzlement. He explained that the artists weren’t painting their actual surroundings, but instead their wishful dreams: oceans of flowing, fish-filled water. 
 At first all the small-talk in Sweden about ‘the weather’ seemed no more than that. Being from Canada, I felt myself equally well-versed in this inexhaustible well of conversation. And I noticed, of course, that many Swedes couldn’t get enough of winter; they gave up wearing long-johns reluctantly and pined for the crisp air and dry squeak of snow underfoot. But after a few winters, I also detected a strained optimism about the season in others, manifest in certain ‘truths’ repeated again and again—from the assertions of ‘coziness’ brought on by the flickering of IKEA tea-lights, to the reoccurring affirmation that the season had ‘vänt’ after the Winter Solstice—signaling that the days would begin to get longer. And the phase I’ve heard echoing in every hallway and home is the one about each new snowfall “brightening up the winter.” Like most clichés, it is true; but the frequency and speed with which it’s inserted into conversations veering dangerously into expressions of winter-boredom points, I think, to another more obscure concern: how to make the dark less dark.
