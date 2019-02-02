@@ -1,3 +1,8 @@
+---
+layout: post
+title: Herr Åkerbär vs. Inner Moose
+author: Gwendolyn Haevens
+---
 Years ago, on my first night in Sweden, I lay awake with a mystery on my mind. I'd just arrived from Canada as an exchange student and was staying with a host-family. The whole experience so far landing down amidst a tidy landscape spotted with candy-red houses, the melodious gobbledygook of the language bandied about me, the snack put before me (cheese shavings on giant crackers called hard-bread) had been surreal. Now, though exhausted from the long journey, I lay sleepless in the pale light of the near-midnight sun considering what my host had just told me in her excellent English. Don't be scared if you hear noises in the night, she'd said, laughing, as I padded up the stairs to my new room. There are moose in the walls.
 I smiled and nodded back, as if I had understood, then spent the next hour or two trying to determine what she'd meant. Was this a euphemism, perhaps, to warn me of some family member's snoring? Or was it some untranslatable Swedish idiomatic expression for something maybe the typically nervous energy one feels in foreign surroundings. For example:
 
