@@ -2,6 +2,8 @@
 layout: post
 title: On Valborg
 author: Gwendolyn Haevens
+published_in: ERGO
+link: http://www.ergo.nu/kronika/20090422-valborg
 ---
 As a child growing up on an island off the west coast of Canada I awoke one morning to an incredible sight. Tens of thousands of translucent pink jellyfish had congregated around the pilings of the ferry dock, resembling a rippling, gelatinous duvet. We usually spotted them in ones or twos long slippery tendrils entwined, blobbing by; and though belly-flopping onto them was ill-advised (they did sting), they'd always appeared, for the most part, harmless. But there was something menacing about this silent, undulating mob of jellies. We wondered what had compelled them all, suddenly, to behave in this singular manner and disperse as mysteriously the next night. 
 This unsettling memory remained buried in my subconscious until I celebrated my first Valborg in Uppsala. While elsewhere in Sweden on April 30th a healthy bonfire and a round of traditional songs to welcome spring (or, alternately, scare away witches and the undead) suffice, in Uppsala the methods of communal celebration are both curious and astounding.
