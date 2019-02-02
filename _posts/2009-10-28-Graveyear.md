@@ -2,6 +2,8 @@
 layout: post
 title: Graveyear
 author: Gwendolyn Haevens
+published_in: ERGO
+link: http://www.ergo.nu/kronika/20091028-graveyear
 ---
 
 If you'd told me a few years ago that a graveyard could be a congenial place to hang out, I would have found the suggestion odd. But that was before I'd moved to Uppsala. When I first came to the city, I found myself walking through the old cemetery daily for purely logistical reasons it was the quickest route from my apartment to the university buildings where I studied. Then it became a place where I went for short walks and to think. Canadian relatives wondered if there wasnt someplace else less, shall we say, morbid to stroll; but by then the graveyard had become not simply a place the dead were buried and commemorated, but something else altogether. 
