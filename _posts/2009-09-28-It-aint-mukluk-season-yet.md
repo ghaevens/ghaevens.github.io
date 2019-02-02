@@ -2,6 +2,8 @@
 layout: post
 title: It ain't mukluk season yet
 author: Gwendolyn Haevens
+published_in: ERGO
+link: http://www.ergo.nu/kronika/20090929-it-ain%C2%92t-mukluk-season-yet
 ---
 There's a rumour going around that Canadians and Swedes are the same when it comes to getting out and enjoying the nature. This is partially true. Were certainly nature-loving, but as far as carrying out this love, we dont have the same rights as Swedes. Swedish friends are always surprised at my delight over a simple chanterelle mushroom picking outing. But, they'll want to clarify, you do have these in your country, don't you? Have them and have them. They grow, yes. But being allowed to pick them in the wild is another matter.
 
