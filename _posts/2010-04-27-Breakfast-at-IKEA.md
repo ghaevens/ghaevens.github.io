@@ -2,6 +2,8 @@
 layout: post
 title: Breakfast at IKEA
 author: Gwendolyn Haevens
+published_in: ERGO
+link: http://www.ergo.nu/kronika/20100427-breakfast-at-ikea
 ---
 I think I picked up more than the odd ear-infection as a child playing in the Vancouver IKEA ball-room. We visited the store often; my parents liked the nice-looking, inexpensive furniture and my sister and I loved swimming through the sea of plastic balls. And the paper bag lunches for kids which each came with a huge round sticker featuring—what else?—a stylized moose. I associated good feelings with the store, even if later, when the year-old furniture (prematurely yellowing and cursed with self-loosening screws) caused my dad to mutter “Typical IKEA...” on a regular basis and go digging through his tool box for the insexnyckel. 
 I still enjoy going to the store, like billions of others around the globe. When I began buying my own furniture as a university student, the place gave me a feeling of possibility. It’s a bit like that scene in the film “Breakfast at Tiffany’s” when the Holly Golightly character explains how the famous jewelry store calms her, “...nothing very bad could happen to you there,” she says. The feeling is probably just a result of my consumerist anxieties being allayed; but if I’m a little less cynical, I’d say it’s been comforting to have a place where I—where everyone—could manage to buy the basics. As an undergrad in Montreal I could afford to replace one of my oversized, table-clothed cardboard boxes with a kitchen table. I slept like a princess on the floor atop the ‘deluxe’ futon mattress I’d hauled out of the “As is” (Fynd) department of the store. I could even hang curtains in my bedroom window to frustrate the peeping-Tom in the building across the street.
