@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Who the Hell is _Bamse_?
+title: Who the Hell is <em>Bamse</em>?
 author: Gwendolyn Haevens
 ---
 There was something strange-looking about my dad's coffee when he sat down at the breakfast table one morning during his last visit to Sweden. It was not milky, but dark with a white blob in the middle. Dad? I asked, did you put _fil_ in your coffee?
