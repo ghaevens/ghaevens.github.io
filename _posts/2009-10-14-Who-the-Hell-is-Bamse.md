@@ -2,6 +2,8 @@
 layout: post
 title: Who the Hell is <em>Bamse</em>?
 author: Gwendolyn Haevens
+published_in: ERGO
+link: http://www.ergo.nu/kronika/20091015-who-hell-ibamsei
 ---
 There was something strange-looking about my dad's coffee when he sat down at the breakfast table one morning during his last visit to Sweden. It was not milky, but dark with a white blob in the middle. Dad? I asked, did you put _fil_ in your coffee?
 Oh yes, never mind, he said, cheerfully attempting to blend the ingredients with his spoon, the fil breaking apart and curdling into diffuse particles around the rim. Actually, it's not that bad, he said, taking a sip of proof. His optimism wasn't fooling anyone; in my pre-Swedish days I had also chosen my pride over my palate.
