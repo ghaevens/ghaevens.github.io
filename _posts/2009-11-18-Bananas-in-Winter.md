@@ -2,6 +2,8 @@
 layout: post
 title: Bananas in Winter
 author: Gwendolyn Haevens
+published_in: ERGO
+link: http://www.ergo.nu/kronika/20091118-bananas-winter
 ---
 I don't need a calendar to tell me it's the end of November. I can decipher this well enough from the patter of petty thoughts through my brain. They try to convince me that my adoptive countrymen have it out for me: from the person who didn't say sorry when they bumped into me in the hallway, to the acquaintance who didn't see me behind the banana display at the grocery store. It's very possible that people become less social in winter some kind of energy conservation may be in the works. But surely this cant account for my impression that I'm being passive-aggressively bad-vibed out of the country?
 
