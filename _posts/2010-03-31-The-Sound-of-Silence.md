@@ -2,6 +2,8 @@
 layout: post
 title: The Sound of Silence
 author: Gwendolyn Haevens
+published_in: ERGO
+link: http://www.ergo.nu/kronika/20100331-the-sound-of-silence
 ---
 Ever seen a ‘how to’ book titled “Basic Knitting: The Hard Way” or “499 Booby-traps in Mexican Cuisine”? Me neither, and yet the language-learning series 1001 Pitfalls in... (given Language) appears to sell quite well. You’d think a title like this would put the prospective buyer off the whole idea of learning the skill (let alone buying the book). They must be aimed less at the tourist prepping for a week in Paris than the serious student of language. The student who doesn’t want their intelligence insulted: they’ve already figured out that languages are cunning by nature and that the road to fluency is more pot-hole than pavement for the first few months. They appreciate the hazards a book like this can signal along the way.
 
