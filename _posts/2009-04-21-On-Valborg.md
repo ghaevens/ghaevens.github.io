@@ -4,7 +4,7 @@ title: On Valborg
 author: Gwendolyn Haevens
 published_in: ERGO
 link: http://www.ergo.nu/kronika/20090422-valborg
-image: 2009-04-21-On-Valborg.jpeg
+image: assets/img/2009-04-21-On-Valborg.jpeg
 categories: [ergo, non-fiction]
 tags: [ergo, non-fiction]
 ---
