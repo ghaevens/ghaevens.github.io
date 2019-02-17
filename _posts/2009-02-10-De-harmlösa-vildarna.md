@@ -5,6 +5,8 @@ author: Gwendolyn Haevens
 published_in: ERGO
 link: http://www.ergo.nu/bok/20090210-de-harmlosa-vildarna
 image: 2009-02-10-De-harmlösa-vildarna.jpeg
+categories: [ergo, review]
+tags: [ergo, review]
 ---
 Say what you will about the early British colonizers in the New World they were a dab hand at propaganda. <!--more-->
 In respect of troubling our inhabiting and planting are not to be feared, writes the English naturalist Thomas Harriot in A Brief and True Report of the New Found Land of Virginia from 1588. The inhabitants of the land, members of the Roanoke nation, are described as thoroughly harmless, having no edge tools or weapons of iron to offend with. Neither know they how to make any, the reader is assured (in parentheses). Reportedly, their weapons are simple bows made of which hazel, and arrows made of reedsand besides a few flat-edged clubs, an assortment of small bark shields, and some armor made of sticks woven together with thread, the Roanoke have nothing with which to defend themselves. And yet, by the time Harriot published his True Report, the government of the first colony had found it necessary to lead a preemptive attack on the Roanoke nation chasing down and beheading their Chief. Neither does the True Report inform the reader of this first colony's disastrous end.
