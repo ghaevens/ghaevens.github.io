@@ -5,8 +5,8 @@ author: Gwendolyn Haevens
 published_in: ERGO
 link: http://www.ergo.nu/kronika/20090422-valborg
 image: 2009-04-21-On-Valborg.jpeg
-categories: [ergo, review]
-tags: [ergo, review]
+categories: [ergo, non-fiction]
+tags: [ergo, non-fiction]
 ---
 As a child growing up on an island off the west coast of Canada I awoke one morning to an incredible sight. Tens of thousands of translucent pink jellyfish had congregated around the pilings of the ferry dock, resembling a rippling, gelatinous duvet. <!--more-->
 We usually spotted them in ones or twos long slippery tendrils entwined, blobbing by; and though belly-flopping onto them was ill-advised (they did sting), they'd always appeared, for the most part, harmless. But there was something menacing about this silent, undulating mob of jellies. We wondered what had compelled them all, suddenly, to behave in this singular manner and disperse as mysteriously the next night.

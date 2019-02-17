@@ -10,8 +10,8 @@ layout: default
         {%- assign date_format = "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
-      {%- if page.author -%}
-        • {{ page.author }}
+      {%- if page.published_in -%}
+        • {{ page.published_in }}
       {%- endif -%}
     </p>
   </header>
