@@ -1,11 +1,14 @@
 ---
 layout: post
-title: With life, comes death
+title: 'With life, comes death'
 author: Gwendolyn Haevens
 published_in: Globe and Mail
-link: https://www.theglobeandmail.com/life/facts-and-arguments/there-is-no-way-to-prepare-for-a-family-member-abruptly-entering-or-exiting-theworld/article36248099/
-image: https://beta.theglobeandmail.com/ece-images/d37/life/article36248032.ece/BINARY/w1100/lf-facts-birth-death-0914-2.jpg
+link: >-
+  https://www.theglobeandmail.com/life/facts-and-arguments/there-is-no-way-to-prepare-for-a-family-member-abruptly-entering-or-exiting-theworld/article36248099/
+image: >-
+  https://beta.theglobeandmail.com/ece-images/d37/life/article36248032.ece/BINARY/w1100/lf-facts-birth-death-0914-2.jpg
 image_artist: Drew Shannon
+published: true
 ---
 Apropos nothing at all, my boyfriend's father told me that his son was too young to have children.<!--more-->
 
