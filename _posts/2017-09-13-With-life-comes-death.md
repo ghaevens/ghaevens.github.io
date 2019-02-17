@@ -7,7 +7,7 @@ link: https://www.theglobeandmail.com/life/facts-and-arguments/there-is-no-way-t
 image: https://beta.theglobeandmail.com/ece-images/d37/life/article36248032.ece/BINARY/w1100/lf-facts-birth-death-0914-2.jpg
 image_artist: Drew Shannon
 ---
-Apropos nothing at all, my boyfriend's father told me that his son was too young to have children.
+Apropos nothing at all, my boyfriend's father told me that his son was too young to have children.<!--more-->
 
 I don't remember where Tore and I were driving – alone in the car, heavy snow hitting the windshield – nor what we'd been talking about before he brought up the topic of children. I was 25 at the time and Anders, the son in question, was three years younger. We'd been together a year. Broke students, we'd moved from Canada to Anders's home country of Sweden and were now camped out in his parents' basement. I had at present no interest in getting pregnant and told Tore this.
 
