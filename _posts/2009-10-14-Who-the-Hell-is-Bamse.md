@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Who the Hell is <em>Bamse</em>?
+title: Who the Hell is *Bamse*?
 author: Gwendolyn Haevens
 published_in: ERGO
 link: http://www.ergo.nu/kronika/20091015-who-hell-ibamsei

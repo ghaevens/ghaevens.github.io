@@ -16,7 +16,7 @@
 title: Narrative engineering
 description: >- # this means to ignore newlines until "baseurl:"
   Social innovation through narrative
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 email: "ghaevens@gmail.com"
 #twitter: ghaevens
