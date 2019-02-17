@@ -4,7 +4,7 @@ title: De harmlösa vildarna
 author: Gwendolyn Haevens
 published_in: ERGO
 link: http://www.ergo.nu/bok/20090210-de-harmlosa-vildarna
-image: assets/img/2009-02-10-De-harmlösa-vildarna.jpeg
+image: /assets/img/2009-02-10-De-harmlösa-vildarna.jpeg
 categories: [ergo, review]
 tags: [ergo, review]
 ---
