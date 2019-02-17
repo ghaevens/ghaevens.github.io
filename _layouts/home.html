@@ -28,9 +28,9 @@ layout: default
             {{ post.title | escape }}
           </a>
         </p>
-        {%- if post.image -%}
-          {{ ![{%- post.title -%}](/assets/img/{%- post.image -%}) }}
-        {%- endif -%}
+
+        {{ ![{%- post.title -%}](/assets/img/{%- post.image -%}) }}
+
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
