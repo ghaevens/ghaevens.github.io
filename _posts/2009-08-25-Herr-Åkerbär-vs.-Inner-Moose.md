@@ -4,6 +4,9 @@ title: Herr Åkerbär vs. Inner Moose
 author: Gwendolyn Haevens
 published_in: ERGO
 link: http://www.ergo.nu/kronika/20090826-herr-akerbar-vs-inner-moose
+image: /assets/img/2009-08-25-Herr-Åkerbär-vs-Inner-Moose.jpeg
+categories: [ergo, non-fiction]
+tags: [ergo, non-fiction]
 ---
 Years ago, on my first night in Sweden, I lay awake with a mystery on my mind. <!--more-->
 I'd just arrived from Canada as an exchange student and was staying with a host-family. The whole experience so far landing down amidst a tidy landscape spotted with candy-red houses, the melodious gobbledygook of the language bandied about me, the snack put before me (cheese shavings on giant crackers called hard-bread) had been surreal. Now, though exhausted from the long journey, I lay sleepless in the pale light of the near-midnight sun considering what my host had just told me in her excellent English. Don't be scared if you hear noises in the night, she'd said, laughing, as I padded up the stairs to my new room. There are moose in the walls.

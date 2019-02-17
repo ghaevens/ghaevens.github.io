@@ -4,6 +4,9 @@ title: Who the Hell is *Bamse*?
 author: Gwendolyn Haevens
 published_in: ERGO
 link: http://www.ergo.nu/kronika/20091015-who-hell-ibamsei
+image: /assets/img/2009-10-14-Who-the-Hell-is-Bamse.jpeg
+categories: [ergo, non-fiction]
+tags: [ergo, non-fiction]
 ---
 There was something strange-looking about my dad's coffee when he sat down at the breakfast table one morning during his last visit to Sweden. It was not milky, but dark with a white blob in the middle. <!--more-->
 Dad? I asked, did you put _fil_ in your coffee?

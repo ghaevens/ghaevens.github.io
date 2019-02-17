@@ -4,9 +4,12 @@ title: This is your Thursday Pea-soup talking
 author: Gwendolyn Haevens
 published_in: ERGO
 link: http://www.ergo.nu/kronika/20090909-thhis-your-thhursday-pea-soup-talking
+image: /assets/img/2009-09-08-This-is-your-Thursday-Pea-soup-Talking.jpeg
+categories: [ergo, non-fiction]
+tags: [ergo, non-fiction]
 ---
 I've learned a lot from food here in Sweden. I don't mean that I've discovered anything about Swedish national characteristics by analyzing traditional foods. <!--more-->
-What with fermented herring, pickled pig's feet, and blood pudding (though, to be fair, it's more of a moist, dense loaf) on the menu, I think I'd be better off not making any rash generalizations. Nor has a simplistic you-are-what-you-eat type notion proved edifying: considering that taking a fika is a nationwide past-time, one would risk calculating average waist-sizes to be elephantine, which they clearly are not. I mean that I've often found food served up with a healthy garnishing of How One Behaves. 
+What with fermented herring, pickled pig's feet, and blood pudding (though, to be fair, it's more of a moist, dense loaf) on the menu, I think I'd be better off not making any rash generalizations. Nor has a simplistic you-are-what-you-eat type notion proved edifying: considering that taking a fika is a nationwide past-time, one would risk calculating average waist-sizes to be elephantine, which they clearly are not. I mean that I've often found food served up with a healthy garnishing of How One Behaves.
 
 First there were the Cinnamon Buns of Straightforwardness. I was in a group, enjoying my first home-baked kanelbulle and already eyeing-up my second. My host lifted the basket and offered me another one. My culture (Canadian with weighty British overtones) dictates that I perform at least one, preferably two, meek refusals before I am allowed, at the host's ardent insistence, to take another goody. But when I refused a second bun, my host took me at my word, and moved on to the next person at the table. I worried my tea cup between my hands in self-pity and debated my position. But there was really no way to get another bun without appearing hopelessly wishy-washy. My host didn't re-offer of course: I'd said plainly that I didn't want another. What do you know: in Sweden, words mean what they...mean.
 
