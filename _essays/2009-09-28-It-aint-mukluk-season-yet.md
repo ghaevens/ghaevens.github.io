@@ -1,0 +1,18 @@
+---
+layout: post
+title: It ain't mukluk season yet
+author: Gwendolyn Haevens
+published_in: ERGO
+link: http://www.ergo.nu/kronika/20090929-it-ain%C2%92t-mukluk-season-yet
+image: /assets/img/2009-02-10-De-harmlösa-vildarna.jpeg
+categories: [ergo, non-fiction]
+tags: [ergo, non-fiction]
+---
+There's a rumour going around that Canadians and Swedes are the same when it comes to getting out and enjoying the nature. This is partially true. <!--more-->
+Were certainly nature-loving, but as far as carrying out this love, we dont have the same rights as Swedes. Swedish friends are always surprised at my delight over a simple chanterelle mushroom picking outing. But, they'll want to clarify, you do have these in your country, don't you? Have them and have them. They grow, yes. But being allowed to pick them in the wild is another matter.
+
+**For this reason**, Allemansrätten a.k.a Every mans right is one of the favourite rights Ive acquired since arriving in Sweden. Many Swedes are unaware that the freedom to wander, camp, and pick berries and mushrooms on other peoples property is not exactly welcomed in most countries. So this, and the fact that there are fences and NO TRESPASSING signs to hinder the intrepid picnicker at every turn, account for why people from my country don't pick what's on their own doorstep because, technically, it's on someone elses doorstep. Even in the expansive National Parks that Canada is renowned for it is unlawful (the euphemistic cousin of illegal) to leave with anything that you didnt come in with. So while you might manage to ingest a few wild strawberries on the sly while you are, say, pretending to lace up your hiking boot, you won't be leaving the perimeter with anything as overt as a bucket.
+This explains why I'd never heard of lingon berries before coming to Sweden. Their ubiquitous presence at the traditional Swedish tabledistilled into juice, tucked into dessert cakes, and spooned generously, as a tart, runny jam beside the meatballs and into the morning yogurt made the Swedes dubious of my assertions that we don't have the berries in Canada. Weighty encyclopedias were pulled down from the shelf to describe Vaccinium vitis-idaea, and then Atlases to illustrate our similar latitudinal locations and, thus, climates. Again, yes, in principle, the berries exist but in fact, there is no way to collect them without breaking one law or other. Now though, thanks to Allemansrätten, berry-picking has become one of my favourite pastimes. But what will we do with fifteen kilos of blueberries? my partner will ask, unimaginatively. This is of course beside the point.
+
+**But my capitalist tendencies aside**, Allemansrätten means that, along with gathering fruits of the forest, everyone can also enjoy hiking and camping in the Swedish countryside. You really can explore the outdoors all day, swim in private lakes, and then pitch your tent at night wherever you end up. The rules are common sense: keep a decent distance from homes and gardens (no lawn or potato patch camping), clean up all your garbage and leave the place as you found it. Don't damage living trees or steal acorns. Close any gates you go through. No pocketing robins eggs or hunting. Don't wander into any limited-access areas that are signposted closed for military defense. You get the idea.
+One other thing that never ceases to amaze Swedish people is that I, a Canadian, might find the winter cold. While snowshoeing is indeed a lovely treat, there's much to be said for getting out and enjoying one's rights here in Sweden while the forests are still somewhat green. There will be plenty of snow and ice and far less of this pesky daylight soon enough, eh?
