@@ -1,3 +1,26 @@
 // This is the place to place Bootstrap-related CSS customizations.
 // As example you can start by importing the _bootswatch.scss file from one of the
 // theme provided by https://bootswatch.com .
+
+$container-max-widths: (
+  sm: 540px,
+  md: 640px,
+  lg: 690px,
+  xl: 720px
+) !default;
+
+// Fonts =======================================================================
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Josefin Sans";
+}
+
+p {
+  font-family: "Open Sans";
+}
+
+// Images ======================================================================
+.image-scale {
+  object-fit: cover; /* Do not scale the image */
+  object-position: center; /* Center the image within the element */
+  height: 50vmin;
+}

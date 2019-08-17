@@ -35,3 +35,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Local dev files #
+###################
+Gemfile*
+_site
+.jekyll-metadata
+*.xcf
