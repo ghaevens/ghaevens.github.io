@@ -3,8 +3,11 @@ layout: post
 title: A Canadian in Sweden finds sweetness in her new north
 author: Gwendolyn Haevens
 published_in: The Globe and Mail
-link: https://www.theglobeandmail.com/life/facts-and-arguments/a-canadian-in-sweden-finds-sweetness-in-her-new-north/article9530617/
-image: https://www.theglobeandmail.com/resizer/qlUcwlnlCxm1mLczNFsHbdFK5O4=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/4G77JA6K6BAVJHPXITPNLI3RKU
+link: >-
+  https://www.theglobeandmail.com/life/facts-and-arguments/a-canadian-in-sweden-finds-sweetness-in-her-new-north/article9530617/
+image: >-
+  https://www.theglobeandmail.com/resizer/qlUcwlnlCxm1mLczNFsHbdFK5O4=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/4G77JA6K6BAVJHPXITPNLI3RKU
+published: true
 ---
 Since I moved to Sweden from Canada eight years ago, certain aspects of my integration have proved more problematic than others.<!--more-->
 
@@ -26,7 +29,7 @@ The Swedes often turn the berries into a delicious runny jam called sylt or a li
 
 At the cabin, I can steal small amounts of the berry sylt on the tip of a teaspoon during the night. Or, before dinner, I can prepare a plain dessert with which the berries would pair marvellously and let my hosts come up with the idea of adding the sylt themselves.
 
-I try to act nonchalant when presented with the stuff. I nod my head at the ongoing conversation at the table, and throw out a well-timed "Jasa?" ("Is that so?")
+I try to act nonchalant when presented with the stuff. I nod my head at the ongoing conversation at the table, and throw out a well-timed "Jaså?" ("Is that so?")
 
 But really my attention is absorbed by the warm, fragrant sylt before me and everything else is a disruption of my private rapture.
 
