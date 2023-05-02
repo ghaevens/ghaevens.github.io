@@ -5,11 +5,12 @@ permalink: /about/
 image: '/images/01.jpg'
 ---
 
-Hello, my name is Gwen Haevens. I'm a Narrative Specialist and Medical Student. I grew up on islands - in the Canadian arctic and off the southern west coast. I've spent much of my adult life travelling and studying in Europe. I earned my PhD in English Literature from Uppsala University in Sweden. I study Medicine at Sahlgrenska Academy, Gothenburg. At the moment, I'm based in California. 
+Hello, my name is Gwen Haevens. I'm a Narrative Specialist and Medical Student. I grew up on islands - in the Canadian arctic and off the southern west coast. I've spent much of my adult life travelling and studying in Europe. I earned my PhD in Literature from Uppsala University in Sweden. For the last three years I've studied medicine at Sahlgrenska Academy, Gothenburg. At the moment, I'm based in Northern California. 
 
 ![My best moments]({{site.baseurl}}/images/70.jpg)
 
-More about The Narrative Health Project...
+I'm so glad that you have found your way to The Narrative Health Studio. As you can see, we're located at the busy intersection where story-telling and well-being meet. Feel free to look around the place. Our goal is to promote health, growth and innovation through a closer study of how narrative works, both on and for us. Make yourself comfortable, and leaf through the reading material.
+And do share your thoughts! 
 
 <div class="gallery-box">
   <div class="gallery">
