@@ -9,7 +9,7 @@ link: https://www.theglobeandmail.com/life/facts-and-arguments/a-canadian-in-swe
 image: '/images/jam-jar.avif'
 tags: [Essays, Desert]
 featured: true
-published: true
+published: false
 ---
 Since I moved to Sweden from Canada eight years ago, certain aspects of my integration have proved more problematic than others.<!--more-->
 
