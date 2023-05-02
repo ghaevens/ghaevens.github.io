@@ -9,7 +9,7 @@ link: https://www.theglobeandmail.com/life/facts-and-arguments/a-canadian-in-swe
 image: '/images/jam-jar.avif'
 tags: dreams desert
 featured: true
-published: false
+published: true
 ---
 Since I moved to Sweden from Canada eight years ago, certain aspects of my integration have proved more problematic than others.<!--more-->
 
