@@ -7,7 +7,7 @@ published_in: The Globe and Mail
 link: https://www.theglobeandmail.com/life/facts-and-arguments/a-canadian-in-sweden-finds-sweetness-in-her-new-north/article9530617/
 #image: https://www.theglobeandmail.com/resizer/qlUcwlnlCxm1mLczNFsHbdFK5O4=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/4G77JA6K6BAVJHPXITPNLI3RKU
 image: '/images/jam-jar.avif'
-tags:   [dreams, desert]
+tags:   [dreams, desert, test]
 featured: true
 published: true
 ---
