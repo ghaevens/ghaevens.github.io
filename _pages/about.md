@@ -5,7 +5,7 @@ permalink: /about/
 image: '/images/01.jpg'
 ---
 
-Hello, my name is Gwen Haevens. I'm a Narrative Specialist and Medical Student. I grew up on islands - in the Canadian arctic and off the southern west coast. I've spent much of my adult life travelling and studying in Europe. I earned my PhD in Literature from Uppsala University in Sweden. For the last three years I've studied medicine at Sahlgrenska Academy, Gothenburg. At the moment, I'm based in Northern California. 
+Hello, my name is Gwen Haevens. I'm a Narrative Specialist and Medical Student. I grew up on islands - in the Canadian Arctic and off the southern Westcoast. I've spent much of my adult life travelling and studying in Europe. I earned my PhD in Literature from Uppsala University in Sweden. For the last three years I've studied medicine at Sahlgrenska Academy, Gothenburg. At the moment, I'm based in Northern California. 
 
 ![My best moments]({{site.baseurl}}/images/70.jpg)
 
