@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Desert"
-tag: desert
+title: "Philosophy"
+tag: philosophy
 ---
