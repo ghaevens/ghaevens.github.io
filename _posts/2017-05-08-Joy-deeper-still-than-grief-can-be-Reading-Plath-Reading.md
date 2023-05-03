@@ -10,19 +10,19 @@ featured: false
 > 
 > ‘All human happiness and misery,’ says Aristotle, ‘take the form of action.’ We know better. We believe that happiness and misery exist in the secret life, which each of us leads privately and to which (in his characters) the novelist has access. And by the “secret life” we “mean the life for which there is no external evidence,” not, as is vulgarly supposed, that which is revealed by a chance word or a sigh.
 >
-> <cite>Sylvia Plath’s notation in double quotations marks in E.M. Forster, Aspects of the Novel 80</cite>
+> <cite>Plath’s notation in double quotations marks in E.M. Forster, Aspects of the Novel 80</cite>
  
-At the entrance to the Autumn Inn in Northampton, Massachusetts, the shuttle driver theatrically deadlifts lifts my small suitcase up to his waist. He stares at me, mouth fixed in a toothy smile. Then he opens his grip and lets my suitcase hit the pavement. He climbs back into the van, slams the heavy door, and pulls away with the last of his passengers from the early morning run from the Hartford airport. I’d left my apartment in Berkeley, California on a warm, lime flower evening, and boarded the red- eye in San Francisco. Now I’m standing outside a hotel on a crisp, bright New England morning in October, bewildered by the immediate change of season, by the shuttle driver’s actions.
+At the entrance to the Autumn Inn in Northampton, Massachusetts, the shuttle driver theatrically deadlifts lifts my small suitcase up to his waist. He stares at me, mouth fixed in a toothy smile. Then he opens his grip and lets my suitcase hit the pavement. He climbs back into the van, slams the heavy door, and pulls away with the last of his passengers from the early morning run from the Hartford airport. I’d left my apartment in Berkeley, California on a warm, lime flower evening, and boarded the red-eye in San Francisco. Now I’m standing outside a hotel on a crisp, bright New England morning in October, bewildered by the immediate change of season, by the shuttle driver’s actions.
+
 Being a Canadian visiting scholar in the US is like this at times. You think you’re playing the same game of football—you’re wearing similar uniforms and cradling an almost identical ball under your arm—only to find the playing field disappear from beneath you 10 metres before the touch down. Nervous about tipping in the US, I had prepaid my shuttle fare and jumped at the opportunity to include the “recommended driver’s tip”—so that I wouldn’t have the awkwardness of handing over limp paper bills when we reached my hotel. Had the driver not gotten the message? Did he expect second tip? What kept me from explaining? A small pile of dry leaves at the base of a tall maple begins to shake. A squirrel, brown acorn in mouth, pokes his head out watching me, waiting. A shiver runs through my chest. I turn away and roll my dented suitcase into the hotel lobby.
  
- 
-![Plath's copy of Thus Spake Zarathustra]({{site.baseurl}}/images/ThusSpakeCover.JPG)
-*Mountains*
- 
-
 For that is the point we are still considering; the “difference between people in life and people in books.” (Plath’s underline, Forster 60)
 
+![Plath's copy of Thus Spake Zarathustra]({{site.baseurl}}/images/ThusSpakeCover.JPG)
+*Plath's copy of Thus Spake Zarathustra*
+
 2.
+
 PLATH, Journal Entry, January 10th, 1959:
 If I could once see how to write a story, a novel, to get something of my feeling over, I would not despair. If writing is not an outlet, what is. (462)
 
@@ -34,8 +34,10 @@ Creating—that is, the great salvation from suffering, and life’s alleviation
 PLATH, written sideline notation in NIETZSCHE (68): 
 “can I succumb? I doubt it. Perhaps.”
 
-It’s the fall of 2011. I’m in Northampton to carry out research at the Mortimer Rare Book Room at Smith College—to study the Plath papers for the author’s theories of the novel form. The doctoral dissertation I’m writing focuses on the dangers of therapeutic narration—the dangers of thinking of the self as a character, one’s life as a story, and the assumption that one will be cured through narrative form. In her journal, during the spring of 1959, Plath documented an emotional rollercoaster driven by her intense psychoanalytic therapy sessions with Dr. Beuscher, by her distress each month that she didn’t become pregnant, and, notably, by her inability to write prose. I’ve noticed that there are times when these three fundamental anxieties become conflated. In Plath’s journal entry on the 20th of March she writes of “a nadir of sorts” (474). “Cramps” she writes,
+It’s the fall of 2011. I’m in Northampton to carry out research at the Mortimer Rare Book Room at Smith College—to study the Plath papers for the author’s theories of the novel form. The doctoral dissertation I’m writing focuses on the dangers of therapeutic narration—the dangers of thinking of the self as a character, one’s life as a story, and the assumption that one will be cured through narrative form. In her journal, during the spring of 1959, Plath documented an emotional rollercoaster driven by her intense psychoanalytic therapy sessions with Dr. Beuscher, by her distress each month that she didn’t become pregnant, and, notably, by her inability to write prose. I’ve noticed that there are times when these three fundamental anxieties become conflated. In Plath’s journal entry on the 20th of March she writes of “a nadir of sorts” (474).
+“Cramps” she writes,
 Pregnant I thought. Not, such luck. After a long 40 day period of hope, the old blood cramps and spilt fertility. [....] Then dopey, and the cramps all day. I am getting nowhere with [Dr. Beuscher] [....] What good does talking about my father do? It may be a minor catharsis that lasts a day or two but I don’t get insight talking to myself. What insight am I trying to get to free what? If my emotional twists are at the bottom of misery, how can I get to know what they are and what to do with them? She can’t make me write, or if I do write, write well. (474)
+
 Nine days later, although Plath writes that she has “40 unattackable poems” with “verve and life-joy” (477), she bemoans “the old brooding stasis of prose” and describes herself as “paralyzed” (475) when faced with writing it (476). Again, in April, she connects prose writing with psychological healing:
 
 I am still blocked about prose. A novel still scares me. Have been reading ‘Passage to India’ for the first time and admiring the miraculous flow and ease of it. To have the time to show the placing of a red card on a black, the change of daylight and the geography of certain hills: the blessings of the novelists [sic] wide untidy landscape art. It would be a certain therapy. (477)
@@ -49,7 +51,6 @@ NIETZSCHE, Thus Spake Zarathustra, PLATH’s STAR and underlining:
 “Of all that is written, I love only what a person hath written with his blood.” (39)
 
 PLATH, Journal Entry, February 28th, 1959:
-
 Try to get into a story. Forget self and give blood to creation. (473)
 
 3.
@@ -101,6 +102,7 @@ NIETZSCHE, Thus Spake Zarathustra:
 lame, for the world, --for this world,” Oh, ye know it indeed! (364)
 
 4.
+
 Elated, I look up to see the light coming into the long windows sideways. It is past 4 pm. All day I’ve been trailing Plath, tracking her interests, her inspiration. The mental journey has been long and I’m on California time. But my tiredness is masked by the busy heartbeat of adrenalin. I turn the page to find a book section titled “Voluntary Death.” It is marked up. A conversation takes place in the margin.
 
 NIETZSCHE, Thus Spake Zarathustra:
@@ -116,6 +118,7 @@ By the above lines, there is a STAR. A SIDELINE. An UNDERLINE. And in the margin
 And in the margin, PLATH writes: “remember!”
 
 5.
+
 ...all of us [...] yearn for permanence. (Forster 67)
 
 Remember. Remember. The words swell, then shrink back, irrevocably imprinted in my brain. No, no, no. I feel sick. I have to run, to tell someone. This is not the scholar, eager to share a fact which supports her pet theory about the danger of narrative endings. This is a person feeling responsible, implicated, 50 years after the reaction could have meant anything.
