@@ -7,8 +7,12 @@ tags:   [essays]
 featured: false
 ---
 1.
-‘All human happiness and misery,’ says Aristotle, ‘take the form of action.’ We know better. We believe that happiness and misery exist in the secret life, which each of us leads privately and to which (in his characters) the novelist has access. And by the “secret life” we “mean the life for which there is no external evidence,” not, as is vulgarly supposed, that which is revealed by a chance word or a sigh.
-(Sylvia Plath’s notation in double quotations marks in E.M. Forster, Aspects of the Novel 80)
+> 
+> 
+> ‘All human happiness and misery,’ says Aristotle, ‘take the form of action.’ We know better. We believe that happiness and misery exist in the secret life, which each of us leads privately and to which (in his characters) the novelist has access. And by the “secret life” we “mean the life for which there is no external evidence,” not, as is vulgarly supposed, that which is revealed by a chance word or a sigh.
+>
+> <cite>Sylvia Plath’s notation in double quotations marks in E.M. Forster, Aspects of the Novel 80</cite>
+> 
 At the entrance to the Autumn Inn in Northampton, Massachusetts, the shuttle driver theatrically deadlifts lifts my small suitcase up to his waist. He stares at me, mouth fixed in a toothy smile. Then he opens his grip and lets my suitcase hit the pavement. He climbs back into the van, slams the heavy door, and pulls away with the last of his passengers from the early morning run from the Hartford airport. I’d left my apartment in Berkeley, California on a warm, lime flower evening, and boarded the red- eye in San Francisco. Now I’m standing outside a hotel on a crisp, bright New England morning in October, bewildered by the immediate change of season, by the shuttle driver’s actions.
 Being a Canadian visiting scholar in the US is like this at times. You think you’re playing the same game of football—you’re wearing similar uniforms and cradling an almost identical ball under your arm—only to find the playing field disappear from beneath you 10 metres before the touch down. Nervous about tipping in the US, I had prepaid my shuttle fare and jumped at the opportunity to include the “recommended driver’s tip”—so that I wouldn’t have the awkwardness of handing over limp paper bills when we reached my hotel. Had the driver not gotten the message? Did he expect second tip? What kept me from explaining? A small pile of dry leaves at the base of a tall maple begins to shake. A squirrel, brown acorn in mouth, pokes his head out watching me, waiting. A shiver runs through my chest. I turn away and roll my dented suitcase into the hotel lobby.
  
