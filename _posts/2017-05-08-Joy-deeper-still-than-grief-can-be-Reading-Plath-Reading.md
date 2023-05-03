@@ -24,14 +24,17 @@ For that is the point we are still considering; the “difference between people
 2.
 
 PLATH, Journal Entry, January 10th, 1959:
+
 If I could once see how to write a story, a novel, to get something of my feeling over, I would not despair. If writing is not an outlet, what is. (462)
 
 NIETZSCHE, Thus Spake Zarathustra, PLATH’S underlining in quotations marks:
+
 Creating—that is, the great salvation from suffering, and life’s alleviation. But for the creator to appear, suffering itself is needed, and much transformation. “Yea, much bitter dying must there be in your life, ye creators!” (92)
 
 “With my tears go into thine isolation, my brother. I love him who seeketh to create beyond himself, and thus succumbeth.” (68)
 
 PLATH, written sideline notation in NIETZSCHE (68): 
+
 “can I succumb? I doubt it. Perhaps.”
 
 It’s the fall of 2011. I’m in Northampton to carry out research at the Mortimer Rare Book Room at Smith College—to study the Plath papers for the author’s theories of the novel form. The doctoral dissertation I’m writing focuses on the dangers of therapeutic narration—the dangers of thinking of the self as a character, one’s life as a story, and the assumption that one will be cured through narrative form. In her journal, during the spring of 1959, Plath documented an emotional rollercoaster driven by her intense psychoanalytic therapy sessions with Dr. Beuscher, by her distress each month that she didn’t become pregnant, and, notably, by her inability to write prose. I’ve noticed that there are times when these three fundamental anxieties become conflated. In Plath’s journal entry on the 20th of March she writes of “a nadir of sorts” (474).
