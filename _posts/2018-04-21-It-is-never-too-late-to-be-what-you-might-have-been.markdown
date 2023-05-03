@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Joy—deeper still than grief can be”: Reading Plath Reading
+title:  “Joy—deeper still than grief can be”- Reading Plath Reading
 date:   2017-05-08 15:01:35 +0300
 image:  ''
 tags:   [essays]
