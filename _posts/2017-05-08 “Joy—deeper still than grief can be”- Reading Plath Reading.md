@@ -2,17 +2,16 @@
 layout: post
 title:  “Joy—deeper still than grief can be”- Reading Plath Reading
 date:   2017-05-08 15:01:35 +0300
-image:  ''
+image:  'ThusSpakeCover.JPG'
 tags:   [essays]
 featured: false
 ---
 1.
 > 
-> 
 > ‘All human happiness and misery,’ says Aristotle, ‘take the form of action.’ We know better. We believe that happiness and misery exist in the secret life, which each of us leads privately and to which (in his characters) the novelist has access. And by the “secret life” we “mean the life for which there is no external evidence,” not, as is vulgarly supposed, that which is revealed by a chance word or a sigh.
 >
 > <cite>Sylvia Plath’s notation in double quotations marks in E.M. Forster, Aspects of the Novel 80</cite>
-> 
+ 
 At the entrance to the Autumn Inn in Northampton, Massachusetts, the shuttle driver theatrically deadlifts lifts my small suitcase up to his waist. He stares at me, mouth fixed in a toothy smile. Then he opens his grip and lets my suitcase hit the pavement. He climbs back into the van, slams the heavy door, and pulls away with the last of his passengers from the early morning run from the Hartford airport. I’d left my apartment in Berkeley, California on a warm, lime flower evening, and boarded the red- eye in San Francisco. Now I’m standing outside a hotel on a crisp, bright New England morning in October, bewildered by the immediate change of season, by the shuttle driver’s actions.
 Being a Canadian visiting scholar in the US is like this at times. You think you’re playing the same game of football—you’re wearing similar uniforms and cradling an almost identical ball under your arm—only to find the playing field disappear from beneath you 10 metres before the touch down. Nervous about tipping in the US, I had prepaid my shuttle fare and jumped at the opportunity to include the “recommended driver’s tip”—so that I wouldn’t have the awkwardness of handing over limp paper bills when we reached my hotel. Had the driver not gotten the message? Did he expect second tip? What kept me from explaining? A small pile of dry leaves at the base of a tall maple begins to shake. A squirrel, brown acorn in mouth, pokes his head out watching me, waiting. A shiver runs through my chest. I turn away and roll my dented suitcase into the hotel lobby.
  
@@ -22,17 +21,18 @@ Being a Canadian visiting scholar in the US is like this at times. You think you
  
 
 For that is the point we are still considering; the “difference between people in life and people in books.” (Plath’s underline, Forster 60)
+
+2.
 PLATH, Journal Entry, January 10th, 1959:
 If I could once see how to write a story, a novel, to get something of my feeling over, I would not despair. If writing is not an outlet, what is. (462)
 
 NIETZSCHE, Thus Spake Zarathustra, PLATH’S underlining in quotations marks:
-
-Creating—that is, the great salvation from suffering, and life’s alleviation. But for the creator to appear, suffering itself is needed, and much transformation.
-
-“Yea, much bitter dying must there be in your life, ye creators!” (92)
+Creating—that is, the great salvation from suffering, and life’s alleviation. But for the creator to appear, suffering itself is needed, and much transformation. “Yea, much bitter dying must there be in your life, ye creators!” (92)
 
 “With my tears go into thine isolation, my brother. I love him who seeketh to create beyond himself, and thus succumbeth.” (68)
-PLATH, written sideline notation in NIETZSCHE (68): “can I succumb? I doubt it. Perhaps.”
+
+PLATH, written sideline notation in NIETZSCHE (68): 
+“can I succumb? I doubt it. Perhaps.”
 
 It’s the fall of 2011. I’m in Northampton to carry out research at the Mortimer Rare Book Room at Smith College—to study the Plath papers for the author’s theories of the novel form. The doctoral dissertation I’m writing focuses on the dangers of therapeutic narration—the dangers of thinking of the self as a character, one’s life as a story, and the assumption that one will be cured through narrative form. In her journal, during the spring of 1959, Plath documented an emotional rollercoaster driven by her intense psychoanalytic therapy sessions with Dr. Beuscher, by her distress each month that she didn’t become pregnant, and, notably, by her inability to write prose. I’ve noticed that there are times when these three fundamental anxieties become conflated. In Plath’s journal entry on the 20th of March she writes of “a nadir of sorts” (474). “Cramps” she writes,
 Pregnant I thought. Not, such luck. After a long 40 day period of hope, the old blood cramps and spilt fertility. [....] Then dopey, and the cramps all day. I am getting nowhere with [Dr. Beuscher] [....] What good does talking about my father do? It may be a minor catharsis that lasts a day or two but I don’t get insight talking to myself. What insight am I trying to get to free what? If my emotional twists are at the bottom of misery, how can I get to know what they are and what to do with them? She can’t make me write, or if I do write, write well. (474)
@@ -52,6 +52,7 @@ PLATH, Journal Entry, February 28th, 1959:
 
 Try to get into a story. Forget self and give blood to creation. (473)
 
+3.
 The Mortimer Rare Book Room looks like the set of a small, liberal arts college film. The walls of the rectangular room are lined in dark wooden bookcases, their shelves filled with books behind glass doors. The shiny tables and chairs, the card catalogues, the frame around the internal glass office—everything is made of this same medium dark wood. The room has weight and the green felt floors seem made to cushion it—to catch the precious books that might fall, and the pencils rolling off tabletops—to keep the chairs from screeching across the floor. But the room has light too, from the windows interspersed with bookcases across the long walls, and the flying saucer-shaped lamps that hang at even intervals from the ceiling. It smells of warm paper, but not musty.
 I think I am alone until Barbara Blumenthal comes out of the back to greet me. She looks at my ID and checks me in. She tells me there is just one other Plath scholar at the archive this week, a nice young scholar named Maeve from Ireland. Karen Kukil, the Associate Curator of Special Collections, is teaching this morning. She’s prepared a cart for my first morning. Via email, I asked to see drafts of the novel and books from Plath’s library, such as her copy of E.M. Forster’s Aspects of the Novel. I want to see her copy of Nietzsche’s Thus Spake Zarathustra too, curious of how it might be relevant to her philosophy of life and work.
 I can take one file folder or book at a time over to a table to study, Barbara tells me. There are several transparent book holders on the tables and beside these, a number of slim, dark velour worms repose. “Page weights,” Barbara explains when she catches me staring at them. I needn’t wear cotton gloves for anything but observing original photos; I may take photos without a flash for personal use. I may write notes on a computer or with a pencil.
@@ -86,13 +87,11 @@ NIETZSCHE, Thus Spake Zarathustra:
 
 This however is my teaching: “he who wisheth one day to fly, must first learn standing and walking and running and climbing and dancing—one doth not fly into flying.” (216)
 
-
 I tell you: “one must still have chaos in one, to give birth to a dancing star.” I tell you: ye have still chaos in you. (11)
 
 “The least thing precisely, the gentlest thing, the lightest thing, a lizard’s rustling, a breath, a whisk, an eye-glance—little maketh up the best happiness. Hush!” (309)
 
 PLATH, Journal Entry, January 10th, 1959
-
 Where is joy. Joy in frogs, not in Idea of people looking at my frog poem. (461)
 
 The rejection is a blow (....) Yet what joys, loves I have know. And how they are part of the world. (ibid.)
@@ -103,6 +102,7 @@ lame, for the world, --for this world,” Oh, ye know it indeed! (364)
 
 4.
 Elated, I look up to see the light coming into the long windows sideways. It is past 4 pm. All day I’ve been trailing Plath, tracking her interests, her inspiration. The mental journey has been long and I’m on California time. But my tiredness is masked by the busy heartbeat of adrenalin. I turn the page to find a book section titled “Voluntary Death.” It is marked up. A conversation takes place in the margin.
+
 NIETZSCHE, Thus Spake Zarathustra:
 Many die too late, and some die too early. Yet strange soundeth the precept: ‘Die at the right time!’ “Die at the right time:” so teacheth Zarathustra. (75)
 “The consummating death I show unto you, which becometh a stimulus and promise to the living.” (....) Thus to die is best; the next best, however, is to die in battle and sacrifice a great soul. (ibid.)
