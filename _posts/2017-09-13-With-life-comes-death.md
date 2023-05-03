@@ -10,7 +10,7 @@ link: >-
 #  https://beta.theglobeandmail.com/ece-images/d37/life/article36248032.ece/BINARY/w1100/lf-facts-birth-death-0914-2.jpg
 image: '/images/life-death.jpg'
 image_artist: Drew Shannon
-tags:   [dreams, desert]
+tags:   [essays]
 featured: true
 published: true
 ---
