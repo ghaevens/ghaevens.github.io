@@ -2,7 +2,7 @@
 layout: post
 title:  Where is joy. Joy is in frogs, not in the idea of people looking at my frog poem. -S.Plath
 date:   2018-04-24 15:01:35 +0300
-image:  '/images/37.jpg'
+image:  '/images/20200629_105517.jpg'
 tags:   [quotations]
 featured:
 ---
