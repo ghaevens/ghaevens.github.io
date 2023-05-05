@@ -8,7 +8,7 @@ featured: false
 ---
 1.
 > 
-> __‘All human happiness and misery,’ says Aristotle, ‘take the form of action.’ We know better. We believe that happiness and misery exist in the secret life, which each of us leads privately and to which (in his characters) the novelist has access. And by the “secret life” we “mean the life for which there is no external evidence,” not, as is vulgarly supposed, that which is revealed by a chance word or a sigh.__
+> ‘All human happiness and misery,’ says Aristotle, ‘take the form of action.’ We know better. We believe that happiness and misery exist in the secret life, which each of us leads privately and to which (in his characters) the novelist has access. And by the “secret life” we “mean the life for which there is no external evidence,” not, as is vulgarly supposed, that which is revealed by a chance word or a sigh.
 >
 > <cite>Plath’s notation in double quotations marks in E.M. Forster, Aspects of the Novel 80</cite>
  
@@ -16,7 +16,7 @@ At the entrance to the Autumn Inn in Northampton, Massachusetts, the shuttle dri
 
 Being a Canadian visiting scholar in the US is like this at times. You think you’re playing the same game of football—you’re wearing similar uniforms and cradling an almost identical ball under your arm—only to find the playing field disappear from beneath you 10 metres before the touch down. Nervous about tipping in the US, I had prepaid my shuttle fare and jumped at the opportunity to include the “recommended driver’s tip”—so that I wouldn’t have the awkwardness of handing over limp paper bills when we reached my hotel. Had the driver not gotten the message? Did he expect second tip? What kept me from explaining? A small pile of dry leaves at the base of a tall maple begins to shake. A squirrel, brown acorn in mouth, pokes his head out watching me, waiting. A shiver runs through my chest. I turn away and roll my dented suitcase into the hotel lobby.
  
-For that is the point we are still considering; the “difference between people in life and people in books.” (Plath’s underline, Forster 60)
+__For that is the point we are still considering; the “difference between people in life and people in books.”__ (Plath’s underline, Forster 60)
 
 ![Plath's copy of Thus Spake Zarathustra]({{site.baseurl}}/images/ThusSpakeCover.JPG)
 *Plath's copy of Thus Spake Zarathustra*
