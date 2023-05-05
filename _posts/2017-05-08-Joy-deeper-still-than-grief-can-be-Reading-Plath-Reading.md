@@ -16,24 +16,20 @@ At the entrance to the Autumn Inn in Northampton, Massachusetts, the shuttle dri
 
 Being a Canadian visiting scholar in the US is like this at times. You think you’re playing the same game of football—you’re wearing similar uniforms and cradling an almost identical ball under your arm—only to find the playing field disappear from beneath you 10 metres before the touch down. Nervous about tipping in the US, I had prepaid my shuttle fare and jumped at the opportunity to include the “recommended driver’s tip”—so that I wouldn’t have the awkwardness of handing over limp paper bills when we reached my hotel. Had the driver not gotten the message? Did he expect second tip? What kept me from explaining? A small pile of dry leaves at the base of a tall maple begins to shake. A squirrel, brown acorn in mouth, pokes his head out watching me, waiting. A shiver runs through my chest. I turn away and roll my dented suitcase into the hotel lobby.
  
-**For that is the point we are still considering; the “difference between people in life and people in books.”**(Plath’s underline, Forster 60)
+*For that is the point we are still considering; the “difference between people in life and people in books.”*(Plath’s underline, Forster 60)
 
 ![Plath's copy of Thus Spake Zarathustra]({{site.baseurl}}/images/ThusSpakeCover.JPG)
 *Plath's copy of Thus Spake Zarathustra*
 
 2.
 
-PLATH, Journal Entry, January 10th, 1959: **If I could once see how to write a story, a novel, to get something of my feeling over, I would not despair. If writing is not an outlet, what is.** (462)
+PLATH, Journal Entry, January 10th, 1959: *If I could once see how to write a story, a novel, to get something of my feeling over, I would not despair. If writing is not an outlet, what is.* (462)
 
-NIETZSCHE, Thus Spake Zarathustra, PLATH’S underlining in quotations marks:
+NIETZSCHE, Thus Spake Zarathustra, PLATH’S underlining in quotations marks:*Creating—that is, the great salvation from suffering, and life’s alleviation. But for the creator to appear, suffering itself is needed, and much transformation. “Yea, much bitter dying must there be in your life, ye creators!”* (92)
 
-Creating—that is, the great salvation from suffering, and life’s alleviation. But for the creator to appear, suffering itself is needed, and much transformation. “Yea, much bitter dying must there be in your life, ye creators!” (92)
+*“With my tears go into thine isolation, my brother. I love him who seeketh to create beyond himself, and thus succumbeth.”* (68)
 
-“With my tears go into thine isolation, my brother. I love him who seeketh to create beyond himself, and thus succumbeth.” (68)
-
-PLATH, written sideline notation in NIETZSCHE (68): 
-
-“can I succumb? I doubt it. Perhaps.”
+PLATH, written sideline notation in NIETZSCHE (68): *“can I succumb? I doubt it. Perhaps.”*
 
 It’s the fall of 2011. I’m in Northampton to carry out research at the Mortimer Rare Book Room at Smith College—to study the Plath papers for the author’s theories of the novel form. The doctoral dissertation I’m writing focuses on the dangers of therapeutic narration—the dangers of thinking of the self as a character, one’s life as a story, and the assumption that one will be cured through narrative form. In her journal, during the spring of 1959, Plath documented an emotional rollercoaster driven by her intense psychoanalytic therapy sessions with Dr. Beuscher, by her distress each month that she didn’t become pregnant, and, notably, by her inability to write prose. I’ve noticed that there are times when these three fundamental anxieties become conflated. In Plath’s journal entry on the 20th of March she writes of “a nadir of sorts” (474).
 “Cramps” she writes,
