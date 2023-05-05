@@ -8,7 +8,7 @@ featured: false
 ---
 1.
 > 
-> ‘All human happiness and misery,’ says Aristotle, ‘take the form of action.’ We know better. We believe that happiness and misery exist in the secret life, which each of us leads privately and to which (in his characters) the novelist has access. And by the “secret life” we “mean the life for which there is no external evidence,” not, as is vulgarly supposed, that which is revealed by a chance word or a sigh.
+> __‘All human happiness and misery,’ says Aristotle, ‘take the form of action.’ We know better. We believe that happiness and misery exist in the secret life, which each of us leads privately and to which (in his characters) the novelist has access. And by the “secret life” we “mean the life for which there is no external evidence,” not, as is vulgarly supposed, that which is revealed by a chance word or a sigh.__
 >
 > <cite>Plath’s notation in double quotations marks in E.M. Forster, Aspects of the Novel 80</cite>
  
