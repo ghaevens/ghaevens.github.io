@@ -31,24 +31,24 @@ NIETZSCHE, Thus Spake Zarathustra, PLATH’S underlining in quotations marks:*Cr
 
 PLATH, written sideline notation in NIETZSCHE (68): *“can I succumb? I doubt it. Perhaps.”*
 
-It’s the fall of 2011. I’m in Northampton to carry out research at the Mortimer Rare Book Room at Smith College—to study the Plath papers for the author’s theories of the novel form. The doctoral dissertation I’m writing focuses on the dangers of therapeutic narration—the dangers of thinking of the self as a character, one’s life as a story, and the assumption that one will be cured through narrative form. In her journal, during the spring of 1959, Plath documented an emotional rollercoaster driven by her intense psychoanalytic therapy sessions with Dr. Beuscher, by her distress each month that she didn’t become pregnant, and, notably, by her inability to write prose. I’ve noticed that there are times when these three fundamental anxieties become conflated. In Plath’s journal entry on the 20th of March she writes of “a nadir of sorts” (474).
-“Cramps” she writes,
-Pregnant I thought. Not, such luck. After a long 40 day period of hope, the old blood cramps and spilt fertility. [....] Then dopey, and the cramps all day. I am getting nowhere with [Dr. Beuscher] [....] What good does talking about my father do? It may be a minor catharsis that lasts a day or two but I don’t get insight talking to myself. What insight am I trying to get to free what? If my emotional twists are at the bottom of misery, how can I get to know what they are and what to do with them? She can’t make me write, or if I do write, write well. (474)
+It’s the fall of 2011. I’m in Northampton to carry out research at the Mortimer Rare Book Room at Smith College—to study the Plath papers for the author’s theories of the novel form. The doctoral dissertation I’m writing focuses on the dangers of therapeutic narration—the dangers of thinking of the self as a character, one’s life as a story, and the assumption that one will be cured through narrative form. In her journal, during the spring of 1959, Plath documented an emotional rollercoaster driven by her intense psychoanalytic therapy sessions with Dr. Beuscher, by her distress each month that she didn’t become pregnant, and, notably, by her inability to write prose. I’ve noticed that there are times when these three fundamental anxieties become conflated. In Plath’s journal entry on the 20th of March she writes of *“a nadir of sorts”* (474).
+*“Cramps”* she writes,
+*"Pregnant I thought. Not, such luck. After a long 40 day period of hope, the old blood cramps and spilt fertility. [....] Then dopey, and the cramps all day. I am getting nowhere with [Dr. Beuscher] [....] What good does talking about my father do? It may be a minor catharsis that lasts a day or two but I don’t get insight talking to myself. What insight am I trying to get to free what? If my emotional twists are at the bottom of misery, how can I get to know what they are and what to do with them? She can’t make me write, or if I do write, write well."* (474)
 
-Nine days later, although Plath writes that she has “40 unattackable poems” with “verve and life-joy” (477), she bemoans “the old brooding stasis of prose” and describes herself as “paralyzed” (475) when faced with writing it (476). Again, in April, she connects prose writing with psychological healing:
+Nine days later, although Plath writes that she has *“40 unattackable poems”* with *“verve and life-joy”*(477), she bemoans *“the old brooding stasis of prose”* and describes herself as *“paralyzed”* (475) when faced with writing it (476). Again, in April, she connects prose writing with psychological healing:
 
-I am still blocked about prose. A novel still scares me. Have been reading ‘Passage to India’ for the first time and admiring the miraculous flow and ease of it. To have the time to show the placing of a red card on a black, the change of daylight and the geography of certain hills: the blessings of the novelists [sic] wide untidy landscape art. It would be a certain therapy. (477)
+*"I am still blocked about prose. A novel still scares me. Have been reading ‘Passage to India’ for the first time and admiring the miraculous flow and ease of it. To have the time to show the placing of a red card on a black, the change of daylight and the geography of certain hills: the blessings of the novelists [sic] wide untidy landscape art. It would be a certain therapy."* (477)
 
 Susan Van Dyne has emphasized that Plath’s habits of self-representation imply that she “regarded her life as if it were a text she could invent and rewrite” (5). I’ve noted that in both her private journals and her published writing, Plath shows an awareness of the power of narrative to affect the interpretation of a life. She suggests in her journal that her writing might be a “substitute for [herself]”—but that it is “much more” too: “a way of ordering and reordering the chaos of experience” (448). I’ve noticed Plath storying herself in a way that was assumed to be therapeutic in the postwar era. But story form, unlike selves, requires the careful orchestration of its ending to convey a final meaning back on the text.
 
 NIETZSCHE, Thus Spake Zarathustra, PLATH’s STAR and underlining:
-“(STAR)...the worst enemy thou canst meet, wilt thou thyself always be”
+*“(STAR)...the worst enemy thou canst meet, wilt thou thyself always be”*
 (67)
 
-“Of all that is written, I love only what a person hath written with his blood.” (39)
+*“Of all that is written, I love only what a person hath written with his blood.”* (39)
 
 PLATH, Journal Entry, February 28th, 1959:
-Try to get into a story. Forget self and give blood to creation. (473)
+*"Try to get into a story. Forget self and give blood to creation."*(473)
 
 3.
 
