@@ -9,7 +9,7 @@ Hello, my name is Gwen Haevens. I'm a Narrative Researcher and Medical Student. 
 
 ![Photo Title]({{site.baseurl}})
 
-I'm so glad that you have found your way to The Narrative Health Studio. As you can see, we're located at the busy intersection where story-telling and well-being meet. Feel free to look around the place. Our goal is to promote health, growth and innovation through a closer study of how narrative works, both on and for us. Make yourself comfortable, and leaf through the reading material.
+I'm so glad that you have found your way to The Narrative Health Project. As you can see, we're located at the busy intersection where story-telling and well-being meet. Feel free to look around the place. Our goal is to promote health, growth and innovation through a closer study of how narrative works, both on and for us. Make yourself comfortable, and leaf through the reading material.
 And do share your thoughts! 
 
 <div class="gallery-box">
