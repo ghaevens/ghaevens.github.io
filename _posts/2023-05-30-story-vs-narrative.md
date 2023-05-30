@@ -39,9 +39,8 @@ The differentiation is primarily in the lens we use to look at the bird. We hard
 Narrative denotes a certain scientific, distanced stance from what is commonly known as story. It often tells us more about the person using the word and their focus of interest than the object itself. 
 We all tell stories in one way or another.
 And many also study narratives: how exactly these structures are formed, how they make meaning, and how they affect the way we think and feel. 
-Some have begun using narrative to refer to the personal or corporate mythologies scripting, often subconsciously, our lives and businesses. This is certainly a kind of narrative. And there are more of them out there. 
 
-To my mind, when the sun-struck, iridescence of a pigeon’s plumage suddenly strikes you, or you find yourself wondering how the bird has persuaded the homeless gentleman on the bench adjacent to toss piece after piece of his baguette to it—well, that pigeon’s gone Rock Dove on you. 
+Some have begun using narrative to refer to the personal or corporate mythologies scripting, often subconsciously, our lives and businesses. This is certainly a kind of narrative. And there are more of them out there. To my mind, when the sun-struck, iridescence of a pigeon’s plumage suddenly strikes you, or you find yourself wondering how the bird has persuaded the homeless gentleman on the bench adjacent to toss piece after piece of his baguette to it—well, that pigeon’s gone Rock Dove on you. 
 
 
 
