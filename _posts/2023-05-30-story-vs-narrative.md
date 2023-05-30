@@ -11,18 +11,13 @@ featured: true
 published: true
 ---
 
-Story vs. Narrative
-
 
 Is there a difference between story and narrative? Don’t they mean the same thing? Is narrative just a jargony way of talking about regular stories? 
 
-Sometimes, is the cagey answer to all these questions. 
+Sometimes, is the answer to all these questions. 
 
-The Cambridge Online Dictionary defines story as: “a description, either true or imagined, of a connected series of events.” 
+The Cambridge Online Dictionary defines story as: “a description, either true or imagined, of a connected series of events.” Narrative is: “a story or description of a series of events.” So, narratives are just stories whose events are unconnected and “undecided” vis-a-vis truth claims? 
 
-Narrative is: “a story or description of a series of events.” 
-
-So, narratives are just stories whose events are unconnected and “undecided” vis-a-vis truth claims? 
 Nah. A subordinate definition of narrative as “a particular way of explaining or understanding events” comes, to my mind, closer to explaining the difference between the terms. 
 
 Most of us recognize a story when we’re in the grip of one. There’s a beginning that piques our curiosity and invites us onboard, followed by a middle that we ride, fast or slow, and more or less suspensefully until we get to a climax (brace yourselves, we’re going over!). After this, the story’s tension is released, and its ending revealed. 
@@ -44,7 +39,6 @@ The differentiation is primarily in the lens we use to look at the bird. We hard
 Narrative denotes a certain scientific, distanced stance from what is commonly known as story. It often tells us more about the person using the word and their focus of interest than the object itself. 
 We all tell stories in one way or another.
 And many also study narratives: how exactly these structures are formed, how they make meaning, and how they affect the way we think and feel. 
-
 Some have begun using narrative to refer to the personal or corporate mythologies scripting, often subconsciously, our lives and businesses. This is certainly a kind of narrative. And there are more of them out there. 
 
 To my mind, when the sun-struck, iridescence of a pigeon’s plumage suddenly strikes you, or you find yourself wondering how the bird has persuaded the homeless gentleman on the bench adjacent to toss piece after piece of his baguette to it—well, that pigeon’s gone Rock Dove on you. 
