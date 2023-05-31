@@ -5,7 +5,7 @@ date: 2023-05-31 15:01:35 -0100
 author: Gwendolyn Haevens
 
 
-image:  '/images/narrmed_101.jpg'
+image:  '/images/Skeleton_Seth.jpg'
 tags:   [Healthcare]
 featured: true
 published: true
