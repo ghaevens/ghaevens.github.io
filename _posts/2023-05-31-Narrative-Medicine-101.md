@@ -31,6 +31,8 @@ In sum, the “narrative” in Narrative Medicine describes not a well-defined t
 It’s in this way that Charon and Launer’s approaches aim to facilitate the return of the art of medicine, to re-humanize and improve the outcomes of the practice for both patients and doctors. So, yes, a persistent curiosity, but as part of the treatment, not an adverse reaction. And the beings are, of course, real. 
 
 
+
+
  (1) Milota MM, van Thiel GJM, van Delden JJM. Narrative as a medical education tool: A systematic review. Medical Teacher. 2019; 41:802. 
 
 (2) Zulman DM et. al. Practices to Foster Physician Presence and Connection With Patients in the Clinical Encounter. JAMA. 2020; 323 (1):70. 
