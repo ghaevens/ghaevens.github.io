@@ -1,10 +1,9 @@
+
 layout: post
 title: Narrative Medicine 101
 date: 2023-05-31 15:01:35 -0100
 author: Gwendolyn Haevens
-
-
-image: '/images/'
+image: '/images/20190926_064141.jpg'
 tags:   [Healthcare]
 featured: true
 published: true
