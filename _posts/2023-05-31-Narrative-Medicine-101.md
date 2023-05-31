@@ -1,4 +1,14 @@
+layout: post
+title: Narrative Medicine 101
+date: 2023-05-31 15:01:35 -0100
+author: Gwendolyn Haevens
 
+
+image: '/images/'
+tags:   [Healthcare]
+featured: true
+published: true
+---
 
 
 When I first came across the term Narrative Medicine as a doctoral student in literature I was intrigued. Finally, a prescription that’s side effects might not include dry mouth, stomach upset and weight-gain, but rather a persistent curiosity about imaginary beings. 
