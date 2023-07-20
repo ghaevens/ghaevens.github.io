@@ -18,8 +18,7 @@ And do share your thoughts!
     <img src=">
     <img src=">
   </div>
-  <em>My best moments / <a href="https://unsplash.com/@jakobowens1" target="_blank">Jakob Owens</a></em>
-</div>
+  
 
 
 
