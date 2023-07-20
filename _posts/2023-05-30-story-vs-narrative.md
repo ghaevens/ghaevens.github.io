@@ -6,7 +6,7 @@ author: Gwendolyn Haevens
 
 
 image: '/images/PICT9004.jpg'
-tags:   [Theory]
+tags:   theory
 featured: true
 published: true
 ---
