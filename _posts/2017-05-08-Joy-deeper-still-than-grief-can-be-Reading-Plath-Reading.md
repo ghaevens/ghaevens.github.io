@@ -147,17 +147,7 @@ The air is crisp again when I walk back to my hotel. By the light of the streetl
 PLATH, Journal Entry, January 20th, 1959:
 *I feel oddly happy. To enjoy the present as if I had never lived and would tomorrow be dead, instead of ‘Jam tomorrow, jam yesterday, never jam today.’ The secret of peace: a devout worship of the moment. Ironically: with most people this comes naturally (...). Why am I so jealous of others. I am me, and the rain is lovely on these chimneys.* (464)
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src=>
-    <img src=>
-    <img src=>
-    <img src=>
-    <img src=>
-    <img src=">
-  </div>
-  <em>Beautiful places / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+
 
 
 
