@@ -6,7 +6,7 @@ author: Gwendolyn Haevens
 
 
 image:  '/images/Skeleton_Seth.jpg'
-tags:   [healthcare]
+tags:   healthcare
 featured: true
 published: true
 ---
